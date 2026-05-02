@@ -1,3 +1,4 @@
+![Project](Automatic_Door.jpeg)
 # Automatic-Touchless-Door-Control
 Touchless door system using Arduino and IR sensor
 ## 📌 Overview
