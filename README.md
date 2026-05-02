@@ -20,6 +20,3 @@ Arduino UNO- IR Sensor- Servo Motor (SG90)- LED##
     - Riya Malange
   ## 🏫 CollegeCummins College of Engineering, Pune
 
-If you want next:
-👉 Send your GitHub link
-I’ll tell you exactly what to improve to get full marks / impress viva examiner 👍
